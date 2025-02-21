@@ -1,0 +1,17 @@
+# 🔹 Node.js / Hardhat
+node_modules/
+package-lock.json
+
+# 🔹 Archivos generados por Hardhat
+artifacts/
+cache/
+
+# 🔹 Configuraciones locales y dependencias innecesarias
+.env
+remappings.txt
+
+# 🔹 Archivos del sistema / Editor
+.DS_Store
+.idea/
+.vscode/
+*.log
